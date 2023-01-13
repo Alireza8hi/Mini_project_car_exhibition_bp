@@ -70,7 +70,7 @@ void add_car()
 		scanf("%s", cars[system.num_of_cars].model);
 		printf("enter year of priduction of your car\n\n----------------------------------------------------------------------------------------------------\n");
 		scanf("%d", &cars[system.num_of_cars].year_of_production);
-		printf("enter coloe of your car\n\n----------------------------------------------------------------------------------------------------\n");
+		printf("enter color of your car\n\n----------------------------------------------------------------------------------------------------\n");
 		scanf("%s", cars[system.num_of_cars].color);
 		printf("enter chassis number of your car\n\n----------------------------------------------------------------------------------------------------\n");
 		scanf("%d", &cars[system.num_of_cars].chassis_number);
